@@ -1,0 +1,23 @@
+.detail-map {
+  height: 400px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.detail-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.back-link {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.detail-content img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
